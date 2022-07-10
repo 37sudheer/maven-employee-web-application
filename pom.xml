@@ -105,7 +105,7 @@
 	</distributionManagement>  
 
 	<build>
-		<finalName>EMPLOYEE-application</finalName>
+		<finalName>EMPLOYEE-APPLICATION</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
